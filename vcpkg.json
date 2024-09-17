@@ -31,6 +31,7 @@
     }
   },
   "dependencies": [
+    "liblo",
     "ableton-link",
     "benchmark",
     "chromaprint",
